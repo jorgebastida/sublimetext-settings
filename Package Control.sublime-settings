@@ -2,6 +2,8 @@
 	"auto_upgrade_last_run": 1342106812,
 	"installed_packages":
 	[
+		"Gist",
+		"GitHubinator",
 		"Package Control",
 		"SublimeCodeIntel",
 		"SublimeLinter",
