@@ -7,4 +7,5 @@ My Sublime Text 2 Preferences
 
 Clone this repo::
 
-    $ git clone https://jorgebastida@github.com/jorgebastida/sublimetext2-settings.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User``
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
+    $ git clone https://jorgebastida@github.com/jorgebastida/sublimetext2-settings.git
