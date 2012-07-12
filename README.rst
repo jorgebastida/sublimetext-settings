@@ -18,5 +18,5 @@ Create/Edit ``~/.codeintel/config``::
     "Python": {
         "python": '/usr/bin/python',
         "pythonExtraPaths": ['/Users/jorge/virtualenvs/streetlife/bin']
+        }
     }
-}
