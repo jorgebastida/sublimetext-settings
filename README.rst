@@ -8,8 +8,8 @@ My Sublime Text 2 Preferences
 
 Clone this repo::
 
-    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/User
-    $ git clone https://jorgebastida@github.com/jorgebastida/sublimetext2-settings.git
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    $ git clone https://jorgebastida@github.com/jorgebastida/sublimetext2-settings.git User
 
 
 Create/Edit ``~/.codeintel/config``::
