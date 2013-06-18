@@ -3,7 +3,7 @@ My Sublime Text 2 Preferences
 
 * Install Sublime Text 2 - http://www.sublimetext.com/2
 * Install Sublime Package Control - http://wbond.net/sublime_packages/package_control
-* Install these packages: ``SublimeCodeIntel`` ``SublimeLinter`` ``Theme - Soda`` ``Gist`` ``GitHubinator``
+* Install these packages: ``SublimeCodeIntel`` ``SublimeLinter`` ``Theme - Soda`` ``Gist`` ``GitHubinator`` ``GitGutter``
 
 
 Clone this repo::
