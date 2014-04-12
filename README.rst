@@ -14,7 +14,7 @@ My Sublime Text 3 Preferences
  * ``Theme - Spacegray`` Quite more appealing theme
  * ``GitGutter`` Show +- close to each line number
  * ``Gist`` Create gists form the editor
- * ``Side​Bar​Enhancements` File/Folder actions in the sidebar
+ * ``SideBarEnhancements`` File/Folder actions in the sidebar
  * ``LESS`` Less highlighting
  * ``Puppet`` Puppet highlighting
  * ``Djaneiro`` Django snippets
@@ -26,7 +26,7 @@ My Sublime Text 3 Preferences
  * ``SublimeCodeIntel``
 
 
-SublimeCodeIntel works "out the box" but if you want to add more virtualenvs, you can edit ``~/.codeintel/config`` adding:
+SublimeCodeIntel works "out the box" but if you want to add more virtualenvs, you can edit ``~/.codeintel/config`` adding::
 
     {
     "Python": {
