@@ -8,7 +8,7 @@ My Sublime Text 3 Preferences
 
     $ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
     $ rm -Rf User
-    $ git clone https://jorgebastida@github.com/jorgebastida/sublimetext2-settings.git User
+    $ git clone git@github.com:jorgebastida/sublimetext-settings.git User
 
 * Install these packages using ``Sublime Package Control``:
  * ``Theme - Spacegray`` Quite more appealing theme
