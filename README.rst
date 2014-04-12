@@ -20,10 +20,10 @@ My Sublime Text 3 Preferences
  * ``Djaneiro`` Django snippets
  * ``Hex​Viewer`` Hex​ view/edits
  * ``INI`` INI syntax highlighting
- * ``GitHubinator``
- * ``SublimeLinter``
- * ``SublimeLinter-pep8``
- * ``SublimeCodeIntel``
+ * ``GitHubinator`` Github helpers (blame, compare..)
+ * ``SublimeLinter`` Lint your code!
+ * ``SublimeLinter-pep8`` Use pep8 as lint
+ * ``SublimeCodeIntel`` Code autocomplete
 
 
 SublimeCodeIntel works "out the box" but if you want to add more virtualenvs, you can edit ``~/.codeintel/config`` adding::
