@@ -1,22 +1,36 @@
-My Sublime Text 2 Preferences
+My Sublime Text 3 Preferences
 -----------------------------
 
-* Install Sublime Text 2 - http://www.sublimetext.com/2
-* Install Sublime Package Control - http://wbond.net/sublime_packages/package_control
-* Install these packages: ``SublimeCodeIntel`` ``SublimeLinter`` ``Theme - Soda`` ``Gist`` ``GitHubinator`` ``GitGutter``
+* Install Sublime Text 3 - http://www.sublimetext.com/3
+* Install Sublime Package Control - https://sublime.wbond.net/installation
 
+* Clone this repo::
 
-Clone this repo::
-
-    $ cd ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/
+    $ cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
+    $ rm -Rf User
     $ git clone https://jorgebastida@github.com/jorgebastida/sublimetext2-settings.git User
 
+* Install these packages using ``Sublime Package Control``:
+ * ``Theme - Spacegray`` Quite more appealing theme
+ * ``GitGutter`` Show +- close to each line number
+ * ``Gist`` Create gists form the editor
+ * ``Side​Bar​Enhancements` File/Folder actions in the sidebar
+ * ``LESS`` Less highlighting
+ * ``Puppet`` Puppet highlighting
+ * ``Djaneiro`` Django snippets
+ * ``Hex​Viewer`` Hex​ view/edits
+ * ``INI`` INI syntax highlighting
+ * ``GitHubinator``
+ * ``SublimeLinter``
+ * ``SublimeLinter-pep8``
+ * ``SublimeCodeIntel``
 
-Create/Edit ``~/.codeintel/config``::
+
+SublimeCodeIntel works "out the box" but if you want to add more virtualenvs, you can edit ``~/.codeintel/config`` adding:
 
     {
     "Python": {
         "python": '/usr/bin/python',
-        "pythonExtraPaths": ['/Users/jorge/virtualenvs/streetlife/bin']
+        "pythonExtraPaths": ['/virtualenvs/streetlife/bin']
         }
     }
