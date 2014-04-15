@@ -24,6 +24,7 @@ My Sublime Text 3 Preferences
  * ``SublimeLinter`` Lint your code!
  * ``SublimeLinter-pep8`` Use pep8 as lint
  * ``SublimeCodeIntel`` Code autocomplete
+ * ``DashDoc`` Open Dash using ``ctrl+h`` searching for the current name.
 
 
 SublimeCodeIntel works "out the box" but if you want to add more virtualenvs, you can edit ``~/.codeintel/config`` adding::
